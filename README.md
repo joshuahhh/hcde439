@@ -1,4 +1,4 @@
-# HCDE 439 Physical Computing Winter 2025
+# HCDE 439 Physical Computing Winter 2026
 
 Welcome to the HCDE 439 example Github repository!
 
